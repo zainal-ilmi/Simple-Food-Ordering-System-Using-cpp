@@ -47,10 +47,10 @@ Navigate through:
 
 Developed by:
 
-1. M. Zainal Ilmi (23081010072)
-2. Dhio Rizqi N.S (23081010277)
-3. Nasywah Aulia (23081010205)
-4. Ailsa Farah (23081010212)
+1. M. Zainal Ilmi 
+2. Dhio Rizqi N.S 
+3. Nasywah Aulia 
+4. Ailsa Farah 
 
 💡 Future Improvements
 
@@ -59,3 +59,4 @@ Developed by:
 - Add login system for admin and customer roles.
 - Add colorized console UI.
 - Calculate taxes or discounts for orders.
+
